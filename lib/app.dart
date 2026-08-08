@@ -2,7 +2,7 @@ void main(){
   // Output
   print("Hello Dart language");
   // String dart
-  String teacherName = "Saren";
+  String teacherName = "Sar123n";
   String studentName = 'Sok';
   print("Teacher name's ${teacherName}");
   print("Student name's "+studentName);
