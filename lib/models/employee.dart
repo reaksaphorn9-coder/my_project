@@ -20,8 +20,8 @@ void main(){
   print("--------------Student---------");
   Student student = new Student();
   student.id = 23;
-  student.gender = "Female";
-  student.name = "Soee";
+  student.gender = "male";
+  student.name = "Soyy";
   student.showInfo();
 
 }
