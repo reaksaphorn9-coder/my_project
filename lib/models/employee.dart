@@ -21,7 +21,7 @@ void main(){
   Student student = new Student();
   student.id = 23;
   student.gender = "Female";
-  student.name = "Sot";
+  student.name = "Soee";
   student.showInfo();
 
 }
